@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas Praktikum 3</string>
+
+    <string name="bIngg">What is this?</string>
+    <string name="bIndo">Apa ini?</string>
+    <string name="tmbl_inggris">Translate</string>
+    <string name="tmbl_indo">Terjemahan</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
